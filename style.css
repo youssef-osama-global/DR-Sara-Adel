@@ -254,8 +254,8 @@ section {
     background-image:
         radial-gradient(circle at 10% 20%, rgba(58,108,244,0.14), transparent 18%),
         radial-gradient(circle at 90% 80%, rgba(250,146,94,0.10), transparent 14%),
-        linear-gradient(135deg, rgba(58,108,244,0.06), rgba(209,98,116,0.04)),
-        url(assets/DR\ sara\ adel.png);
+        linear-gradient(135deg, rgba(58,108,244,0.06), rgba(209,98,116,0.04)); 
+        /*, url(assets/DR\ sara\ adel.png)*/
     background-size: cover, cover, cover, stretch;
     background-position: center, center, center, right center;
     background-repeat: no-repeat;
